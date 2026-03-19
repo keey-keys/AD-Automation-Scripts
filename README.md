@@ -65,7 +65,7 @@ identifying stale or misconfigured accounts
 - Parameter-based script inputs
 
 ## Related Projects
-- [Server Maintenance Toolkit](link-to-your-other-repo) — Bash-based 
+- [Server Maintenance Toolkit]([link-to-your-other-repo](https://github.com/keey-keys/server-maintenance-toolkit)) — Bash-based 
 Linux server maintenance automation including backups, 
 disk monitoring, and log cleanup
 
